@@ -1,3 +1,4 @@
 .vscode-upload.json
 /.vscode
 *.exe
+*.out
