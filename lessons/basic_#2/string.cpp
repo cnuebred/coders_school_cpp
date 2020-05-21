@@ -1,0 +1,1 @@
+// String - działa jak vektor
